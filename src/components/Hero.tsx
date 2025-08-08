@@ -38,19 +38,19 @@ const Hero = () => {
           
           <div className="flex justify-center space-x-6">
             <a 
-              href="#" 
+              href="https://github.com/Arfat456" 
               className="p-3 rounded-full border border-border hover:border-primary transition-smooth hover:shadow-soft"
             >
               <Github className="w-6 h-6" />
             </a>
             <a 
-              href="#" 
+              href="https://www.linkedin.com/in/m-arfat/" 
               className="p-3 rounded-full border border-border hover:border-primary transition-smooth hover:shadow-soft"
             >
               <Linkedin className="w-6 h-6" />
             </a>
             <a 
-              href="#" 
+              href="aa3919168@gmail.com" 
               className="p-3 rounded-full border border-border hover:border-primary transition-smooth hover:shadow-soft"
             >
               <Mail className="w-6 h-6" />
