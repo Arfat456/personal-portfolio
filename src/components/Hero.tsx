@@ -49,12 +49,12 @@ const Hero = () => {
             >
               <Linkedin className="w-6 h-6" />
             </a>
-            <a 
+            {/* <a 
               href="aa3919168@gmail.com" target="_blank"
               className="p-3 rounded-full border border-border hover:border-primary transition-smooth hover:shadow-soft"
             >
               <Mail className="w-6 h-6" />
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
